@@ -55,7 +55,6 @@ With initial values A = 15, B = 5, C = 0, the circuit correctly produces the exp
 
 - `Team36.circ` — Logisim circuit file (open directly in Logisim)
 - `CO report.pdf` — Full RTL design report: timing diagrams, control signal expressions, bus/ALU encoder logic, and memory contents
-- `Names&IDS.pdf` — Team member list
 
 ## Tech Stack
 
