@@ -1,4 +1,4 @@
-# Basic Computer Control Unit — Team 36
+# Basic Computer Control Unit
 
 A custom hardwired control unit built in Logisim, extending a Mano-architecture "basic computer" to execute a specific instruction subset — including two custom instructions added on top of the standard set.
 
@@ -56,10 +56,6 @@ With initial values A = 15, B = 5, C = 0, the circuit correctly produces the exp
 - `Team36.circ` — Logisim circuit file (open directly in Logisim)
 - `CO report.pdf` — Full RTL design report: timing diagrams, control signal expressions, bus/ALU encoder logic, and memory contents
 - `Names&IDS.pdf` — Team member list
-
-## Team 36
-
-Mostafa Mahmoud Mostafa · Mahmoud Bassem · Eman Ahmed Eltahlawy · Seif Rabei · Omar Tag · Mohamed Lamloum
 
 ## Tech Stack
 
